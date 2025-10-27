@@ -1,7 +1,8 @@
 <h1>Hi, I'm Deekshitha! <br/><a href="https://github.com/DeekshithaKotte">Programmer</a>, <a href="https://linkedin.com/in/deekshitha-kotte-1070b21a6">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
-
+- <b>Machine Learning/Deep Learning</b>
+  - [Brain Tumor Detector](https://github.com/DeekshithaKotte/MRI-Tumor-Detector)
 - <b> Web & Mobile Development - Task : Testing Automated </b>
   - [Testing (Automated)](https://github.com/DeekshithaKotte/Gripintern)
 - <b> Front-end </b>
