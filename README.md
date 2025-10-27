@@ -1,4 +1,4 @@
-<h1>Hi, I'm Deekshitha! <br/><a href="https://github.com/DeekshithaKotte">Programmer</a>, <a href="https://linkedin.com/in/deekshitha-kotte-1070b21a6">Software Engineer</a></h1>
+<h1>Hi, I'm Deekshitha! <br/><a href="https://github.com/DeekshithaKotte">Programmer</a>, <a href="https://www.linkedin.com/in/deekshitha-k1004/">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 - <b>Machine Learning/Deep Learning</b>
@@ -22,4 +22,4 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: linkedin.com/in/deekshitha-kotte-1070b21a
+[linkedin]: https://www.linkedin.com/in/deekshitha-k1004/
