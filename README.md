@@ -7,7 +7,8 @@
 
 <ul>
   <li><b>Machine Learning / Deep Learning:</b> 
-    <a href="https://github.com/DeekshithaKotte/MRI-Tumor-Detector">Brain Tumor Detector</a>
+    <a href="https://github.com/DeekshithaKotte/MRI-Tumor-Detector">Brain Tumor Detector</a> 
+     <a href="https://github.com/DeekshithaKotte/AI-Powered-Multi-Modal-Cancer-Detection-Using-ResNet50-and-MLP"> Cancer Tumor Detector </a>
   </li>
 
   <li><b>Web & Mobile Development – Task: Testing Automated:</b> 
