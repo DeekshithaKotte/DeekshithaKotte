@@ -8,7 +8,7 @@
   <li><b>Machine Learning / Deep Learning:</b> 
   <ul>
    <li> <a href="https://github.com/DeekshithaKotte/MRI-Tumor-Detector">Brain Tumor Detector</a> </li>
-    <li><a href="https://github.com/DeekshithaKotte/AI-Powered-Multi-Modal-Cancer-Detection-Using-ResNet50-and-MLP"> Cancer Tumor Detector </a></li>
+    <li> <a href="https://github.com/DeekshithaKotte/AI-Powered-Multi-Modal-Cancer-Detection-Using-ResNet50-and-MLP"> Cancer Tumor Detector </a> </li>
 </ul> 
 </li>
 
