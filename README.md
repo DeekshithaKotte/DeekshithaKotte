@@ -3,7 +3,11 @@
   <a href="https://www.linkedin.com/in/deekshitha-k1004/">Software Engineer</a>
 </h1>
 
-<h2>👨‍💻 Software Engineering Projects:</h2>
+<h2>👨‍💻 Software Engineering Projects:</h2>  
+
+<li><b>Full-Stack AI Applications</b> 
+    <a href="https://github.com/DeekshithaKotte/clinic_rag">Clinical Document Understanding (FastAPI + RAG + LLM + React)</a>
+  </li>
 
   <li><b>Machine Learning / Deep Learning:</b> 
   <ul>
