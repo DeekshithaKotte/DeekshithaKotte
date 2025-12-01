@@ -6,7 +6,9 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>  
 
 <li><b>Full-Stack AI Applications</b> 
+  <ul>
     <a href="https://github.com/DeekshithaKotte/clinic_rag">Clinical Document Understanding (FastAPI + RAG + LLM + React)</a>
+  </ul>
   </li>
 
   <li><b>Machine Learning / Deep Learning:</b> 
