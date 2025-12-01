@@ -2,7 +2,7 @@
   <a href="https://github.com/DeekshithaKotte">Programmer</a>, 
   <a href="https://www.linkedin.com/in/deekshitha-k1004/">Software Engineer</a>
 </h1>
-  <h5><a href="https://github.com/DeekshithaKotte/Portfolio">Portfolio: https://portfolio-link-here</a></h5>
+  <h5><a href="https://deekshithakotte.github.io/Portfolio/">Portfolio: https://portfolio-link-here</a></h5>
 
 
 <h2>👨‍💻 Software Engineering Projects:</h2>  
