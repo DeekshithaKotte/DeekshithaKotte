@@ -7,7 +7,7 @@
 
 <li><b>Full-Stack AI Applications</b> 
   <ul>
-    <a href="https://github.com/DeekshithaKotte/clinic_rag">Clinical Document Understanding (FastAPI + RAG + LLM + React)</a>
+    <li><a href="https://github.com/DeekshithaKotte/clinic_rag">Clinical Document Understanding (FastAPI + RAG + LLM + React)</a></li>
   </ul>
   </li>
 
