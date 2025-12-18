@@ -51,7 +51,7 @@
 </ul>
 
 <h2>🤳 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/deekshitha-k1004/">
+<a href="https://www.linkedin.com/in/deekshitha-k-a630a239a/">
   <img align="left" alt="Deekshitha Kotte | LinkedIn" width="22px" 
        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
